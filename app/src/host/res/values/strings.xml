@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Usb Host</string>
+    <string name="device_waiting_info">当前是Host设备，请将Accessory设备连接至此进行测试！</string>
+</resources>
